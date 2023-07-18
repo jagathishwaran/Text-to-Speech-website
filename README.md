@@ -1,11 +1,12 @@
 
 ## Title
 
-Calculator
+Text to Speech
 
 
 ## Description 
-A simple and user-friendly web-based calculator built using HTML, CSS, and JavaScript. Perform basic arithmetic operations, delete characters, and evaluate expressions with ease. The calculator features a clean and responsive design, making it accessible on various devices. Customize the calculator's appearance using CSS and leverage Font Awesome icons for visual appeal. An ideal addition to any web development project.
+
+Text to speech is a web application that converts text into speech. Enter your text, select a voice, and click "LISTEN" to hear the speech output. It offers a user-friendly interface and utilizes the browser's Text-to-Speech API. Customize and enhance it according to your needs.Enjoy speech synthesis with ease!
 
 ## Authors
 
@@ -14,38 +15,65 @@ A simple and user-friendly web-based calculator built using HTML, CSS, and JavaS
     
 ## Getting Started
 
-This is a customizable web-based calculator application. Easily modify the design by changing the background image, font color, and icons to match your preferences. Here's how to get started:
+To get started with the Text-to-Speech Converter, follow these steps:
 
-   1. Clone the repository to your local machine.
+   1. Download the source code:
 
-   2. Open the project in your preferred code editor.
+    --Clone or download the repository.
 
-   3. Customize the HTML, CSS, or JavaScript files to suit your needs.
+    --Save the files to your local machine.
 
-   4. Test the calculator locally to ensure it functions correctly.
+   2. Open the project:
 
-   5. Deploy the updated application to your chosen hosting platform for others to use.
+    --Use your preferred code editor to open the downloaded project files.
 
-Unleash your creativity and personalize the calculator according to your style!
+   3. Customize the code:
+
+    --Modify the HTML, CSS, and JavaScript files as needed.
+
+    --Update images, fonts, and backgrounds according to your preferences.
+
+    --Make changes to the layout and design to match your desired style.
+
+   4. Customize voice options:
+
+    --The converter uses the browser's Text-to-Speech API to generate speech.
+
+    --You can customize or add voice options by editing the JavaScript code.
+
+    --Follow the documentation for the Text-to-Speech API to learn how to manage voices.
+
+   5. Test the text-to-speech converter:
+
+    --Open the HTML file in a web browser to see the customized converter in action.
+
+    --Enter text into the textarea and click "LISTEN" to hear the speech output.
+
+    --Verify that the selected voice and playback functionalities work correctly.
+
+   6. Deploy the converter:
+
+    --Upload the modified code to your web hosting or server.
+
+    --Follow the deployment instructions provided by your hosting provider.
+
+Note: The provided code serves as a foundation for a basic text-to-speech converter. You can customize it further to enhance its features, appearance, and functionality according to your needs. Enjoy the flexibility of customizing the converter to suit your requirements and provide a seamless speech synthesis experience.
 
 
 
 ## Features
 
 
-   1. Basic arithmetic operations: Addition, subtraction, multiplication, and division.
+  
 
-   2. Decimal point support and clearing display.
+   1. User-friendly interface: The application has a clean and intuitive user interface that makes it easy for users to interact with.
 
-   3. Delete last character and evaluate expressions.
+   2. Input text area: Users can enter the text they want to convert into speech in a textarea.
 
-   4. User-friendly design with responsive layout.
+   3. Voice selection: The application provides a dropdown menu where users can select the desired voice for the speech output. The available voices are obtained from the browser's Text-to-Speech API.
 
-   5. Styling with custom CSS for an appealing visual experience.
+   4. Speech playback: By clicking the "LISTEN" button, the application converts the entered text into speech and plays it back using the selected voice.
 
-   6. Use of popular web fonts for improved typography.
-
-   7. Integration of Font Awesome icons for enhanced aesthetics.
 
 
 
